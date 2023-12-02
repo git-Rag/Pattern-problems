@@ -25,11 +25,6 @@ public class patterns {
 //            }
 //            System.out.println();
 
-            // was too tired to complete imma do em later
-
-        //Half Pyramid
-
-        //I got shit bored w basic pattern problems so jumped to advanced on other file
 
         
 
